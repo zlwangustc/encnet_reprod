@@ -1,6 +1,6 @@
 
 # EncNet复现说明
-
+网络原因，部分文件未上传，完整文件保存在baidudisk，[链接]()
 ## 文件结构:
 ```
 encnet_reprod
