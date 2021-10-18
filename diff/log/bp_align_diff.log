@@ -1,0 +1,11 @@
+[2021/10/18 02:19:14] root INFO: bp_loss1: 
+[2021/10/18 02:19:14] root INFO: 	mean diff: check passed: True, value: 0.014209747314453125
+[2021/10/18 02:19:14] root INFO: bp_loss2: 
+[2021/10/18 02:19:14] root INFO: 	mean diff: check passed: True, value: 0.014757156372070312
+[2021/10/18 02:19:14] root INFO: bp_loss3: 
+[2021/10/18 02:19:14] root INFO: 	mean diff: check passed: True, value: 0.0021715164184570312
+[2021/10/18 02:19:14] root INFO: bp_loss4: 
+[2021/10/18 02:19:14] root INFO: 	mean diff: check passed: True, value: 0.00170135498046875
+[2021/10/18 02:19:14] root INFO: bp_loss5: 
+[2021/10/18 02:19:14] root INFO: 	mean diff: check passed: True, value: 0.002189159393310547
+[2021/10/18 02:19:14] root INFO: diff check passed
